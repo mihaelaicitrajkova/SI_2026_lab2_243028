@@ -11,3 +11,9 @@
 
 Цикломатската комплексност за borrowBook е 5, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=4, па цикломатската комплексност изнесува 5.
 
+#### Тест случаи според критериумот Every statement за методата searchBookByTitle
+
+Потребни ни се најмалку 3 случаи за да се покрие Еvery statement
+
+<img width="651" height="313" alt="image" src="https://github.com/user-attachments/assets/127ce140-d417-4688-ac8e-b5d5366f78d8" />
+
