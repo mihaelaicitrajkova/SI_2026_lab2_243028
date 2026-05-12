@@ -1,1 +1,1 @@
-# SI_2026_lab2_243028
+# Mihaela Ichitrajkova 243028
