@@ -22,3 +22,16 @@
 Потребни ни се најмалку 4 случаи за да се покрие Еvery branch
 
 <img width="1321" height="409" alt="image" src="https://github.com/user-attachments/assets/4b2559c2-dafb-4b9e-93dd-eafd79ac13bb" />
+
+#### Тест случаи според критериумот Multiple condition за searchBookByTitle
+
+Потребни ни се најмалку 3 случаи за да се покрие Multiple condition 
+
+<img width="942" height="97" alt="image" src="https://github.com/user-attachments/assets/e0100da9-8cef-430d-96b5-024e8d196806" />
+
+#### Тест случаи според критериумот Multiple condition за borrowBook
+
+Потребни ни се најмалку 3 случаи за да се покрие Multiple condition 
+
+<img width="1046" height="97" alt="image" src="https://github.com/user-attachments/assets/307514dc-d265-4305-8ab7-4caec5646909" />
+
