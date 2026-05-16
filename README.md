@@ -17,3 +17,8 @@
 
 <img width="651" height="313" alt="image" src="https://github.com/user-attachments/assets/127ce140-d417-4688-ac8e-b5d5366f78d8" />
 
+#### Тест случаи според критериумот Every branch за методата borrowBook
+
+Потребни ни се најмалку 4 случаи за да се покрие Еvery branch
+
+<img width="1321" height="409" alt="image" src="https://github.com/user-attachments/assets/4b2559c2-dafb-4b9e-93dd-eafd79ac13bb" />
